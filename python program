@@ -1,0 +1,13 @@
+#first five n even no
+def even_Nos():
+    a=2
+    i=n*2
+    print=int(input("enter any no:"))
+
+
+#first n odd nos:
+def odd_nos():
+    a=1
+    i=n+2
+    print=int(input("enter any no:"))
+    
